@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/informaticsclub/.github/blob/main/assets/Informatics_club_logo.jpeg">
+  <img width="500" height="auto" src="https://github.com/informaticsclub/.github/blob/main/assets/Informatics_club_logo.jpeg">
 </p>
 
 ### Hi, this is us!
