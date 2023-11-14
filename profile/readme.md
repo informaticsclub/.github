@@ -10,7 +10,7 @@ The Informatics Club was founded to foster a community for UAB students and trai
 
 ### Executive Board
 
-- President: Samuel Bharti @samuelbharti
+- President: Samuel Bharti [@samuelbharti](https://github.com/samuelbharti)
 - Vice President: Emma
 - Secretary: Santhosh
 - Event Managers: Yuwei Song and Shaurita
