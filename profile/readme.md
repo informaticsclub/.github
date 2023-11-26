@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="auto" src="https://github.com/informaticsclub/.github/blob/main/assets/Informatics_club_logo.jpeg">
+  <img width="300" height="auto" src="https://github.com/informaticsclub/.github/blob/main/assets/Informatics_club_logo.jpeg">
 </p>
 
 ### Hi, this is us 👋
@@ -10,13 +10,13 @@ The Informatics Club was founded to foster a community for UAB students and trai
 
 ### Executive Board
 
-- President: Samuel Bharti [@samuelbharti](https://github.com/samuelbharti)
-- Vice President: Emma
-- Secretary: Santhosh
+- President: Samuel Bharti · [@samuelbharti](https://github.com/samuelbharti)
+- Vice President: Emma Graffice
+- Secretary: Santhosh Karthikeyan
 - Event Managers: Yuwei Song and Shaurita Hutchins
-- Treasurer: Dana
+- Treasurer: Dana Indihar
+- Social Media Manager: Kristen Coutinho
 - Webmaster: Mattie Logan
-- Social Media Manager: Kristen
 - Faculty Advisor: Dr. Lara Ianov
 
 
