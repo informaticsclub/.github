@@ -2,7 +2,7 @@
   <img width="300" height="auto" src="https://github.com/informaticsclub/.github/blob/main/assets/InformaticsClubAltLogoTransparent.png">
 </p>
 
-## Hi, this is us 👋
+## Welcome to our GitHub organization! 👋👋🏻👋🏽👋🏾👋🏿
 <p>Visit our <a href="https://informaticsclub.github.io/" target="_blank">website</a> to learn about our upcoming events and access resources. Here's our UAB <a href="https://uab.campuslabs.com/engage/organization/informaticsclub" target="_blank">Engage</a> page to access upcoming events or sign in. </p>
 
 ## Mission
