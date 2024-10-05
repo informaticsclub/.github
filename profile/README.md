@@ -18,7 +18,7 @@ The Informatics Club was founded to foster a community for UAB students and trai
   - Victoria Johnson
 - Treasurer: Kristen Coutinho
 - Social Media Manager:
-  -
+  - Dev Raj Bhattarai
   - Sankshay Pusa
 - Webmaster: Shaurita Hutchins · [@sdhutchins](https://github.com/sdhutchins)
 - Faculty Advisor: Dr. Lara Ianov
