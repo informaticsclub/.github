@@ -12,14 +12,8 @@ The Informatics Club was founded to foster a community for UAB students and trai
 
 - President: Samuel Bharti · [@samuelbharti](https://github.com/samuelbharti)
 - Vice President: Emma Graffice
-- Secretary: Yuwei Song
-- Event Managers:
-  - Victoria Flanary
-  - Victoria Johnson
-- Treasurer: Kristen Coutinho
 - Social Media Manager:
   - Dev Raj Bhattarai
-  - Sankshay Pusa
 - Webmaster: Shaurita Hutchins · [@sdhutchins](https://github.com/sdhutchins)
 - Faculty Advisor: Dr. Lara Ianov
 
